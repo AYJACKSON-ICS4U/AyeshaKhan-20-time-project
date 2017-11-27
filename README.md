@@ -7,3 +7,5 @@ To Create a repo for various projects. Current projects are a weekly poetry repo
 More Projects may or may not be added over time.
 
 #### ***NOTE:*** Logs 1 - 5 are separated into the various project folders
+
+There are two design projects and I have added a repo in which I will track my progress in learning Korean. Just for fun. I am learning it on an app called LingoDeer.
